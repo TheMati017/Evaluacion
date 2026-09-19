@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TaskMaster</string>
+    <string name="welcome_title">TaskMaster</string>
+    <string name="welcome_subtitle">Organiza tu día, sin esfuerzo</string>
+    <string name="welcome_loading">Cargando tus tareas…</string>
+    <string name="btn_start">Ingresar</string>
+    <string name="title_task_list">Mis tareas</string>
+    <string name="btn_add_task">Agregar tarea</string>
+    <string name="empty_list">Aún no tienes tareas. ¡Agrega la primera!</string>
+    <string name="title_add_task">Nueva tarea</string>
+    <string name="label_title">Título</string>
+    <string name="label_description">Descripción</string>
+    <string name="label_category">Categoría</string>
+    <string name="label_priority">Prioridad</string>
+    <string name="label_importance">Importancia</string>
+    <string name="label_completed">Marcar como completada</string>
+    <string name="btn_save">Guardar tarea</string>
+    <string name="priority_high">Alta</string>
+    <string name="priority_medium">Media</string>
+    <string name="priority_low">Baja</string>
+    <string name="hint_title">Ej: Comprar insumos de oficina</string>
+    <string name="hint_description">Detalles de la tarea…</string>
+    <string name="toast_title_required">El título es obligatorio</string>
+    <string name="toast_task_saved">Tarea guardada correctamente</string>
+
+    <string name="login_kicker">Acceso</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="label_username">Usuario</string>
+    <string name="label_password">Contraseña</string>
+    <string name="hint_username">tu.usuario@bodegaexpress.cl</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="toast_login_required">Ingresa tu usuario y contraseña</string>
+
+    <string name="menu_hello">Hola de nuevo,</string>
+    <string name="menu_name">Alex</string>
+    <string name="menu_item_tasks">Mis tareas</string>
+    <string name="menu_item_add_task">Agregar tarea</string>
+    <string name="menu_item_logout">Cerrar sesión</string>
+</resources>

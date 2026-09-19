@@ -1,0 +1,12 @@
+<resources>
+    <!-- Paleta "bodega / despacho" — coherente con el prototipo visual -->
+    <color name="primary">#16231B</color>       <!-- ink -->
+    <color name="primary_dark">#0F1712</color>
+    <color name="accent">#E2A33D</color>        <!-- amber -->
+    <color name="rust">#B0512B</color>
+    <color name="kraft">#D9C7A3</color>
+    <color name="background">#F3EEE0</color>    <!-- cream -->
+    <color name="white">#F3EEE0</color>         <!-- texto claro sobre fondos oscuros -->
+    <color name="text_primary">#16231B</color>
+    <color name="text_secondary">#5B5744</color>
+</resources>
